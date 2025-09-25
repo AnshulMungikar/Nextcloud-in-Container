@@ -11,7 +11,7 @@ Enable services:
 `systemctl enable --now nginx mariadb redis-server`
 
 ### Secure MariaDB
-`mysql_secure_installation
+` mysql_secure_installation `
 
 Set root password
 Remove anonymous users
